@@ -1,0 +1,10 @@
+@import "tailwindcss"; 
+
+form input:-webkit-autofill,
+form textarea:-webkit-autofill {
+  background-color: #1e1e1e !important; /* Fondo oscuro */
+  -webkit-text-fill-color: white !important; /* Texto blanco */
+  border-color: #3b3b3b !important; /* Color del borde */
+  -webkit-box-shadow: 0 0 0px 1000px #1e1e1e inset !important; /* Elimina el fondo blanco */
+  transition: background-color 5000s ease-in-out 0s; /* Evita parpadeos */
+}
