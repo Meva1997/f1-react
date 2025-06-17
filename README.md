@@ -2,6 +2,10 @@
 
 This project is a web application built with **React**, **TypeScript**, and **Vite** that allows users to explore information about the 2025 F1 Driver Championship, purchase merchandise, and more.
 
+## 🌐 Live Demo
+
+See this project live at: [https://f1-react.netlify.app/](https://f1-react.netlify.app/)
+
 ## 🚀 Features
 
 - **Animated Landing Page**: A homepage with smooth animations using **Framer Motion**.
@@ -91,24 +95,6 @@ f1-react/
 ### 5. **Smooth Transitions**
 
 - Page-to-page animations using **Framer Motion** and `AnimatePresence`.
-
-## 🖼️ Screenshots
-
-### Landing Page
-
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page)
-
-### HomePage
-
-![HomePage](https://via.placeholder.com/800x400?text=HomePage)
-
-### Driver Standings Table
-
-![Driver Standings Table](https://via.placeholder.com/800x400?text=Driver+Standings+Table)
-
-### Merchandise Store
-
-![Merchandise Store](https://via.placeholder.com/800x400?text=Merchandise+Store)
 
 ## 🧠 What I Learned
 
